@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureprojectsalma",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8e0887c-03df-4ada-ac3a-f085cb776d48",
+		"tenantId": "a663b4e6-bb0d-4cab-b0ad-838123f7ce3e"
+	}
+}
